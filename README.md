@@ -1,5 +1,5 @@
 # hello-world
 
-Hi, human!
+This is a small calender in cpp
 
 
